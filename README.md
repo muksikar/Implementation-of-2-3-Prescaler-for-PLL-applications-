@@ -1,5 +1,4 @@
-# Implementation-of-2-3-Prescaler-for-PLL-applications-
-Here's a professional **README.md** for your GitHub project:
+
 
 # Implementation of 2/3 Prescaler for PLL Applications
 
